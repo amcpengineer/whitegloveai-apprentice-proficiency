@@ -75,7 +75,7 @@ uvicorn app.main:app --reload
 ```bash
 pytest
 ```
-![Unit Tests](https://github.com/TU_USUARIO/whitegloveai-apprentice-proficiency/actions/workflows/unit-tests.yml/badge.svg)
+![Unit Tests](https://github.com/amcpengineer/whitegloveai-apprentice-proficiency/actions/workflows/unit-tests.yml/badge.svg)
 ---
 
 ## Author
