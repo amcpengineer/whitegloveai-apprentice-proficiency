@@ -1,0 +1,14 @@
+# Environment
+.env
+
+# Python cache (recursive - catches all)
+__pycache__/
+*.pyc
+
+# Logs and messages
+logs/
+messages/
+
+# IDE
+.vscode/
+.idea/
