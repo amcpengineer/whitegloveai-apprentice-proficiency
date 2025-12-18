@@ -23,7 +23,7 @@ Explain the purpose of the project in more detail.
 ---
 
 ## Tech Stack
-- Python 3.13
+- Python 3.11
 - Framework: FastAPI
 - Testing: pytest
 
@@ -75,7 +75,7 @@ uvicorn app.main:app --reload
 ```bash
 pytest
 ```
-
+![Unit Tests](https://github.com/TU_USUARIO/whitegloveai-apprentice-proficiency/actions/workflows/unit-tests.yml/badge.svg)
 ---
 
 ## Author
