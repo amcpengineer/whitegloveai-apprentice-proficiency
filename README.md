@@ -43,7 +43,7 @@ Explain the purpose of the project in more detail.
 
   - `app/`: Contains the main application code.
   - `routers/`: API route definitions.
-  - `services/`: Business logic and service layer.
+  - `services/`: Business logic and service layer. (* NOT applied to this project yet)
   - `clients/`: External API clients.
   - `models/`: Data models and schemas.
   - `main.py`: Application entry point.
