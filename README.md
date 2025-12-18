@@ -18,7 +18,7 @@ FastAPI client demonstrating API integration proficiency
 ---
 
 ## Overview
-Explain the purpose of the project in more detail.
+This project was developed in accordance with the requirements provided by White Glove AI as part of their technical assessment.
 
 ---
 
