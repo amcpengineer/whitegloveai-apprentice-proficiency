@@ -1,4 +1,4 @@
-# WhiteGloveAI Apprentice Proficiency
+# White Glove AI Apprentice Proficiency
 
 FastAPI client demonstrating API integration proficiency
 
@@ -72,8 +72,19 @@ uvicorn app.main:app --reload
 ---
 
 ## Testing
+
+The testing package is organized into three levels: 
+1. Unit Tests
+These tests validate individual components in isolation, such as model validations and requirement assertions.
+
+2. Integration Tests
+These tests verify that the external connection and behavior replies from the external endpoints.
+
+3. API Tests
+These test verify the internal api behaviour.
+
 ```bash
-pytest
+pytest test/unit_tests/test_models.py
 ```
 ![Unit Tests](https://github.com/amcpengineer/whitegloveai-apprentice-proficiency/actions/workflows/unit-tests.yml/badge.svg)
 ---
